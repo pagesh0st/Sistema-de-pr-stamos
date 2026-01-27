@@ -1,0 +1,130 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/31/6a/316ae5f25c0d5364eebee3cb54876d21.jpg",
+      "description": "Una obra maestra de la literatura latinoamericana que narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo. Una exploración profunda de la soledad, el amor, la guerra y el tiempo.",
+      "pages": [
+        "Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo. Macondo era entonces una aldea de veinte casas de barro y cañabrava construidas a la orilla de un río de aguas diáfanas que se precipitaban por un lecho de piedras pulidas, blancas y enormes como huevos prehistóricos.",
+        "El mundo era tan reciente, que muchas cosas carecían de nombre, y para mencionarlas había que señalarlas con el dedo. Todos los años, por el mes de marzo, una familia de gitanos desarrapados plantaba su carpa cerca de la aldea, y con un grande alboroto de pitos y timbales daban a conocer los nuevos inventos.",
+        "Primero llevaron el imán. Un gitano corpulento, de barba montaraz y manos de gorrión, que se presentó con el nombre de Melquíades, hizo una truculenta demostración pública de lo que él mismo llamaba la octava maravilla de los sabios alquimistas de Macedonia.",
+        "José Arcadio Buendía, cuya desaforada imaginación iba siempre más lejos que el ingenio de la naturaleza, y aun más allá del milagro y la magia, pensó que era posible servirse de aquella invención inútil para desentrañar el oro de la tierra.",
+        "Úrsula Iguarán, su mujer, que contaba con aquellos animales para ensanchar el desmedrado patrimonio doméstico, no consiguió disuadirlo. Muy bien, dijo: vamos a ver cómo sales de esta. José Arcadio Buendía se dedicó a recorrer la región en busca de una veta de oro."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "cover": "https://www.planetadelibros.com.ec/usuaris/libros/fotos/427/original/426264_portada_don-quijote-de-la-mancha_miguel-de-cervantes_202507100651.jpg",
+      "description": "La historia del ingenioso hidalgo que, enloquecido por la lectura de libros de caballerías, decide convertirse en caballero andante y salir en busca de aventuras junto a su escudero Sancho Panza. Una obra fundamental de la literatura universal.",
+      "pages": [
+        "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor.",
+        "Una olla de algo más vaca que carnero, salpicón las más noches, duelos y quebrantos los sábados, lantejas los viernes, algún palomino de añadidura los domingos, consumían las tres partes de su hacienda.",
+        "El resto della concluían sayo de velarte, calzas de velludo para las fiestas, con sus pantuflos de lo mesmo, y los días de entresemana se honraba con su vellorí de lo más fino.",
+        "Tenía en su casa una ama que pasaba de los cuarenta, y una sobrina que no llegaba a los veinte, y un mozo de campo y plaza, que así ensillaba el rocín como tomaba la podadera.",
+        "Frisaba la edad de nuestro hidalgo con los cincuenta años. Era de complexión recia, seco de carnes, enjuto de rostro, gran madrugador y amigo de la caza."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "cover": "https://www.planetadelibros.com.ec/usuaris/libros/fotos/204/original/portada_el-principito-ed-2015_antoine-de-saint-exupery_201511270438.jpg",
+      "description": "Un cuento poético que relata la historia de un pequeño príncipe que viaja de planeta en planeta y llega a la Tierra, donde aprende sobre el amor, la amistad y el sentido de la vida. Una fábula para niños y adultos.",
+      "pages": [
+        "Cuando yo tenía seis años vi en un libro sobre la selva virgen que se titulaba Historias vividas, una magnífica lámina. Representaba una serpiente boa que se tragaba a una fiera.",
+        "En el libro se afirmaba: Las serpientes boas se tragan su presa entera, sin masticarla. Luego ya no pueden moverse y duermen durante los seis meses que dura su digestión.",
+        "Reflexioné mucho en ese momento sobre las aventuras de la jungla y a mi vez logré trazar con un lápiz de colores mi primer dibujo. Mi dibujo número 1 era de esta manera.",
+        "Enseñé mi obra de arte a las personas mayores y les pregunté si mi dibujo les daba miedo. —¿Por qué habría de asustar un sombrero? —me respondieron.",
+        "Mi dibujo no representaba un sombrero. Representaba una serpiente boa que digiere un elefante. Dibujé entonces el interior de la serpiente boa a fin de que las personas mayores pudieran comprender."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "cover": "https://storage-aws-production.publica.la/planetaespcontent/issues/2024/09/eNlOK26qU6a2bBaj/df38a184-8354-46a2-9958-6f22aa8419fd_cover.jpg",
+      "description": "La historia de Elizabeth Bennet y el señor Darcy, dos personas que deben superar sus primeras impresiones equivocadas para encontrar el amor verdadero. Una crítica mordaz de la sociedad inglesa del siglo XIX.",
+      "pages": [
+        "Es una verdad mundialmente reconocida que un hombre soltero, poseedor de una gran fortuna, necesita una esposa. Sin embargo, poco se sabe de los sentimientos u opiniones de un hombre de tales condiciones cuando entra a formar parte de un vecindario.",
+        "Esta verdad está tan arraigada en las mentes de las familias de los alrededores, que alguien es considerado como propiedad privada de alguna de sus hijas.",
+        "Mi querido señor Bennet, dijo un día su señora, ¿has oído que por fin se ha alquilado Netherfield Park? El señor Bennet repuso que no.",
+        "Pues así es, replicó ella; la señora Long acaba de estar aquí y me lo ha contado todo. El señor Bennet no contestó.",
+        "¿No quieres saber quién lo ha tomado?, gritó su mujer impaciente. Tú quieres contármelo y yo no tengo inconveniente en oírlo."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "1984",
+      "author": "George Orwell",
+      "cover": "https://www.planetadelibros.com.ec/usuaris/libros/fotos/48/original/47978_portada_1984_george-orwell_202104151338.jpg",
+      "description": "Una distopía totalitaria donde el Gran Hermano lo controla todo y el pensamiento independiente es un crimen. Winston Smith trabaja reescribiendo la historia hasta que se atreve a desafiar al sistema.",
+      "pages": [
+        "Era un día luminoso y frío de abril y los relojes daban las trece. Winston Smith, con la barbilla clavada en el pecho en un esfuerzo para escapar del viento cruel, se deslizó rápidamente por entre las puertas de vidrio de las Mansiones Victoria.",
+        "No fue lo bastante rápido, sin embargo, para impedir que una ráfaga de polvo arenoso entrara con él. El vestíbulo olía a col hervida y a esteras viejas.",
+        "Al fondo, un cartel de colores, demasiado grande para hallarse en un interior, estaba pegado a la pared. Representaba sólo un enorme rostro de más de un metro de ancho: la cara de un hombre de unos cuarenta y cinco años.",
+        "Winston se dirigió hacia las escaleras. Era inútil intentar subir en el ascensor. Aun en los mejores tiempos funcionaba rara vez, y por el momento la corriente eléctrica se cortaba durante las horas de día.",
+        "Era parte de las medidas de ahorro para preparar la Semana del Odio. El apartamento estaba en el séptimo piso y Winston, que tenía treinta y nueve años y una úlcera varicosa sobre el tobillo derecho, subió lentamente."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Crónica de una muerte anunciada",
+      "author": "Gabriel García Márquez",
+      "cover": "https://anterior.mrbooks.com/mrbooks/portadas/9789588886176.webp",
+      "description": "La reconstrucción de un crimen de honor en un pueblo caribeño. Todo el pueblo sabía que iban a matar a Santiago Nasar, pero nadie hizo nada para impedirlo. Una obra sobre el destino inevitable.",
+      "pages": [
+        "El día en que lo iban a matar, Santiago Nasar se levantó a las 5:30 de la mañana para esperar el buque en que llegaba el obispo. Había soñado que atravesaba un bosque de higuerones donde caía una llovizna tierna.",
+        "Por un instante fue feliz en el sueño, pero al despertar se sintió por completo salpicado de cagada de pájaros. Siempre soñaba con árboles, me dijo Plácida Linero, su madre, evocando veintisiete años después los pormenores de aquel lunes ingrato.",
+        "La única diferencia de algún interés con los otros lunes era que el obispo iba en el buque, y Santiago Nasar se había levantado con tres horas de anticipación para verlo.",
+        "No se demoraron más de cinco minutos. Se habían vestido de pontífices con sus ternos de paño oscuro y los chalecos de brocados festivos. Mi hermano Luis Enrique había entrado en el seminario y mi hermano Jaime no pensaba todavía en su vocación.",
+        "Pero el obispo no bajó del buque. Hubo quienes no lo vieron pasar. Yo estaba reponiéndome de la parranda de la boda en el regazo apostólico de María Alejandrina Cervantes."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "La metamorfosis",
+      "author": "Franz Kafka",
+      "cover": "https://www.edinun.com/images/02%20LA%20METAMORFOSIS.jpg",
+      "description": "Gregor Samsa despierta una mañana convertido en un insecto monstruoso. Esta inquietante novela corta explora temas de alienación, familia y la condición humana a través de una transformación imposible que desafía toda lógica.",
+      "pages": [
+        "Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto. Estaba echado sobre el duro caparazón de su espalda, y, al alzar un poco la cabeza, vio la figura convexa de su vientre oscuro, surcado por curvadas callosidades.",
+        "La colcha apenas se sostenía sobre la punta de su vientre y estaba a punto de escurrirse. Innumerables patas, penosamente delgadas en comparación con el grosor normal de sus piernas, se agitaban sin concierto ante sus ojos.",
+        "¿Qué me ha ocurrido?, pensó. No era un sueño. Su habitación, una habitación normal, aunque muy reducida, se encontraba tranquila entre las cuatro paredes harto conocidas.",
+        "Sobre la mesa había desparramado un muestrario de paños: Samsa era viajante de comercio, y encima colgaba una estampa que hacía poco había recortado de una revista y puesto en un lindo marco dorado.",
+        "La mirada de Gregorio se dirigió después hacia la ventana y el tiempo lluvioso —se oían caer gotas de lluvia sobre la chapa del alféizar de la ventana— lo puso muy melancólico. ¿Qué tal si durmiera un poco más y olvidara todo este disparate?, pensó."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Huasipungo",
+      "author": "Jorge Icaza",
+      "cover": "https://www.stockcero.com/images/cover/9781934768266.jpg",
+      "description": "Una denuncia brutal de la explotación indígena en el Ecuador de principios del siglo XX. La novela narra la lucha de los indígenas por defender sus huasipungos (pequeñas parcelas de tierra) contra los terratenientes y el poder.",
+      "pages": [
+        "El taita cura que estaba preparando las cuentas de las misas, responsos, matrimonios, bautizos, velorios, diezmos, primicias, de todo el año, observó por sobre sus gafas de vidrio azul al indio que llegaba sudoroso y cubierto de polvo.",
+        "Buenas tardes nos dé Taita Curita, murmuró el indio al poner un pie en el despacho parroquial, quitándose el sombrero de paja y haciendo una reverencia servil.",
+        "Qué se ofrece, interrogó el sotanudo sin levantar la vista del libro de cuentas. Con voz que se ahogaba en angustiosa timidez, el indio alcanzó a decir: Vengo de parte del patrón para que su mercé venga a confesar a la mama. Está muriéndose no más.",
+        "Ah. Por la doña Blanca, murmuró el cura con indiferencia. Ya. Ya. Puede irse. Mañana veré. Pero Taita Curita, la mama está en las últimas. Ya no puede ni hablar.",
+        "Bueno. Bueno, repuso el cura con gesto de fatiga. Dígale al patrón que ya iré. Y despidió al indio con un movimiento de la mano, mientras sus ojos y su pensamiento volvían a las cuentas del libro."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Pedro Páramo",
+      "author": "Juan Rulfo",
+      "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/1a/d7/1ad769b304eb759a61880340921bc82d.jpg",
+      "description": "Juan Preciado viaja a Comala para cumplir la promesa hecha a su madre de encontrar a su padre, Pedro Páramo. Al llegar, descubre un pueblo fantasma habitado por murmullos y almas en pena. Una obra maestra del realismo mágico.",
+      "pages": [
+        "Vine a Comala porque me dijeron que acá vivía mi padre, un tal Pedro Páramo. Mi madre me lo dijo. Y yo le prometí que vendría a verlo en cuanto ella muriera. Le apreté sus manos en señal de que lo haría, pues ella estaba por morirse y yo en un plan de prometerlo todo.",
+        "No dejes de ir a visitarlo, me recomendó. Se llama de este modo y de este otro. Estoy segura de que le dará gusto conocerte. Entonces no pude hacer otra cosa sino decirle que así lo haría, y de tanto decírselo se lo seguí diciendo aun después que a mis manos les costó trabajo zafarse de sus manos muertas.",
+        "Todavía antes me había dicho: No vayas a pedirle nada. Exígele lo nuestro. Lo que estuvo obligado a darme y nunca me dio... El olvido en que nos tuvo, mi hijo, cóbraselo caro.",
+        "Así que vine a Comala. Era ese tiempo de la canícula, cuando el aire de agosto sopla caliente, envenenado por el olor podrido de las saponarias. El camino subía y bajaba: Sube o baja según se va o se viene. Para el que va, sube; para el que viene, baja.",
+        "Yo iba en subida, lleno de ilusiones y esperanzas. El arriero que me llevaba me decía: Se ve que será para largo su conversación con Pedro Páramo, porque en toda la noche no dejé de oír el paso de los caballos en mi sueño."
+      ]
+    }
+  ]
+}
