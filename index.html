@@ -34,6 +34,9 @@
                 </div>
                 <button type="submit" class="btn-primary">Ingresar a la biblioteca</button>
             </form>
+            <div class="login-footer">
+                <a href="nosotros.html" class="btn-link">Conoce más sobre nuestro colegio</a>
+            </div>
         </div>
     </div>
 
@@ -43,12 +46,23 @@
                 <h2>Biblioteca Medardo Ángel Silva</h2>
                 <div class="user-info">
                     <span id="user-name"></span>
+                    <a href="nosotros.html" class="btn-secondary">Nosotros</a>
                     <button id="logout-btn" class="btn-secondary">Cerrar sesión</button>
                 </div>
             </div>
         </header>
         <main class="catalog-container">
-            <h3>Libros disponibles</h3>
+            <div class="catalog-header">
+                <h3>Libros disponibles</h3>
+                <div class="category-filters">
+                    <button class="category-btn active" data-category="all">Todos</button>
+                    <button class="category-btn" data-category="Clásicos">Clásicos</button>
+                    <button class="category-btn" data-category="Literatura Latinoamericana">Literatura Latinoamericana</button>
+                    <button class="category-btn" data-category="Literatura Infantil">Literatura Infantil</button>
+                    <button class="category-btn" data-category="Distopía">Distopía</button>
+                    <button class="category-btn" data-category="Literatura Ecuatoriana">Literatura Ecuatoriana</button>
+                </div>
+            </div>
             <div id="books-grid" class="books-grid"></div>
         </main>
     </div>
@@ -66,6 +80,9 @@
                 <div class="detail-info">
                     <h3 id="detail-title"></h3>
                     <p class="detail-author" id="detail-author"></p>
+                    <div class="detail-category">
+                        <span class="category-tag" id="detail-category"></span>
+                    </div>
                     <p class="detail-description" id="detail-description"></p>
                     <button id="read-book-btn" class="btn-primary">Leer libro</button>
                 </div>

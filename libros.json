@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Cien años de soledad",
       "author": "Gabriel García Márquez",
+      "category": "Literatura Latinoamericana",
       "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/31/6a/316ae5f25c0d5364eebee3cb54876d21.jpg",
       "description": "Una obra maestra de la literatura latinoamericana que narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo. Una exploración profunda de la soledad, el amor, la guerra y el tiempo.",
       "pages": [
@@ -18,6 +19,7 @@
       "id": 2,
       "title": "Don Quijote de la Mancha",
       "author": "Miguel de Cervantes",
+      "category": "Clásicos",
       "cover": "https://www.planetadelibros.com.ec/usuaris/libros/fotos/427/original/426264_portada_don-quijote-de-la-mancha_miguel-de-cervantes_202507100651.jpg",
       "description": "La historia del ingenioso hidalgo que, enloquecido por la lectura de libros de caballerías, decide convertirse en caballero andante y salir en busca de aventuras junto a su escudero Sancho Panza. Una obra fundamental de la literatura universal.",
       "pages": [
@@ -32,6 +34,7 @@
       "id": 3,
       "title": "El principito",
       "author": "Antoine de Saint-Exupéry",
+      "category": "Literatura Infantil",
       "cover": "https://www.planetadelibros.com.ec/usuaris/libros/fotos/204/original/portada_el-principito-ed-2015_antoine-de-saint-exupery_201511270438.jpg",
       "description": "Un cuento poético que relata la historia de un pequeño príncipe que viaja de planeta en planeta y llega a la Tierra, donde aprende sobre el amor, la amistad y el sentido de la vida. Una fábula para niños y adultos.",
       "pages": [
@@ -46,6 +49,7 @@
       "id": 4,
       "title": "Orgullo y prejuicio",
       "author": "Jane Austen",
+      "category": "Clásicos",
       "cover": "https://storage-aws-production.publica.la/planetaespcontent/issues/2024/09/eNlOK26qU6a2bBaj/df38a184-8354-46a2-9958-6f22aa8419fd_cover.jpg",
       "description": "La historia de Elizabeth Bennet y el señor Darcy, dos personas que deben superar sus primeras impresiones equivocadas para encontrar el amor verdadero. Una crítica mordaz de la sociedad inglesa del siglo XIX.",
       "pages": [
@@ -60,6 +64,7 @@
       "id": 5,
       "title": "1984",
       "author": "George Orwell",
+      "category": "Distopía",
       "cover": "https://www.planetadelibros.com.ec/usuaris/libros/fotos/48/original/47978_portada_1984_george-orwell_202104151338.jpg",
       "description": "Una distopía totalitaria donde el Gran Hermano lo controla todo y el pensamiento independiente es un crimen. Winston Smith trabaja reescribiendo la historia hasta que se atreve a desafiar al sistema.",
       "pages": [
@@ -74,6 +79,7 @@
       "id": 6,
       "title": "Crónica de una muerte anunciada",
       "author": "Gabriel García Márquez",
+      "category": "Literatura Latinoamericana",
       "cover": "https://anterior.mrbooks.com/mrbooks/portadas/9789588886176.webp",
       "description": "La reconstrucción de un crimen de honor en un pueblo caribeño. Todo el pueblo sabía que iban a matar a Santiago Nasar, pero nadie hizo nada para impedirlo. Una obra sobre el destino inevitable.",
       "pages": [
@@ -88,6 +94,7 @@
       "id": 7,
       "title": "La metamorfosis",
       "author": "Franz Kafka",
+      "category": "Clásicos",
       "cover": "https://www.edinun.com/images/02%20LA%20METAMORFOSIS.jpg",
       "description": "Gregor Samsa despierta una mañana convertido en un insecto monstruoso. Esta inquietante novela corta explora temas de alienación, familia y la condición humana a través de una transformación imposible que desafía toda lógica.",
       "pages": [
@@ -102,6 +109,7 @@
       "id": 8,
       "title": "Huasipungo",
       "author": "Jorge Icaza",
+      "category": "Literatura Ecuatoriana",
       "cover": "https://www.stockcero.com/images/cover/9781934768266.jpg",
       "description": "Una denuncia brutal de la explotación indígena en el Ecuador de principios del siglo XX. La novela narra la lucha de los indígenas por defender sus huasipungos (pequeñas parcelas de tierra) contra los terratenientes y el poder.",
       "pages": [
@@ -116,6 +124,7 @@
       "id": 9,
       "title": "Pedro Páramo",
       "author": "Juan Rulfo",
+      "category": "Literatura Latinoamericana",
       "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/1a/d7/1ad769b304eb759a61880340921bc82d.jpg",
       "description": "Juan Preciado viaja a Comala para cumplir la promesa hecha a su madre de encontrar a su padre, Pedro Páramo. Al llegar, descubre un pueblo fantasma habitado por murmullos y almas en pena. Una obra maestra del realismo mágico.",
       "pages": [
@@ -124,6 +133,246 @@
         "Todavía antes me había dicho: No vayas a pedirle nada. Exígele lo nuestro. Lo que estuvo obligado a darme y nunca me dio... El olvido en que nos tuvo, mi hijo, cóbraselo caro.",
         "Así que vine a Comala. Era ese tiempo de la canícula, cuando el aire de agosto sopla caliente, envenenado por el olor podrido de las saponarias. El camino subía y bajaba: Sube o baja según se va o se viene. Para el que va, sube; para el que viene, baja.",
         "Yo iba en subida, lleno de ilusiones y esperanzas. El arriero que me llevaba me decía: Se ve que será para largo su conversación con Pedro Páramo, porque en toda la noche no dejé de oír el paso de los caballos en mi sueño."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Rayuela",
+      "author": "Julio Cortázar",
+      "category": "Literatura Latinoamericana",
+      "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/a6/5c/a65c47abf60ffba2ed42a15f0e52033a.jpg",
+      "description": "Una novela experimental que puede leerse en diferentes órdenes. Narra la búsqueda existencial de Horacio Oliveira entre París y Buenos Aires, explorando el amor, la filosofía y las posibilidades de la literatura misma.",
+      "pages": [
+        "¿Encontraría a la Maga? Tantas veces me había bastado asomarme, viniendo por la rue de Seine, al arco que da al Quai de Conti, y apenas la luz de ceniza y olivo que flota sobre el río me dejaba distinguir las formas, ya su silueta delgada se inscribía en el Pont des Arts.",
+        "Y era tan natural cruzar la calle, subir los peldaños del puente, entrar en su delgada cintura y acercarme a la Maga que sonreía sin sorpresa, convencida como yo de que un encuentro casual era lo menos casual en nuestras vidas.",
+        "Y que la gente que se da citas precisas es la misma que necesita papel rayado para escribirse o que aprieta desde abajo el tubo de dentífrico. Pero la Maga no estaría ahora en el puente.",
+        "Su fina cara de translúcida piel se asomaba a mis recuerdos de entonces, quizá de antes, quizá después; ahora estoy en París caminando por un puente, y pienso en ti, Lucía.",
+        "Andábamos sin buscarnos pero sabiendo que andábamos para encontrarnos. Oh, Maga, en cada mujer parecida a vos se agolpaba como un silencio terrible, una pausa filosa y cristalina que acababa por derrumbarse tristemente."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "La casa de los espíritus",
+      "author": "Isabel Allende",
+      "category": "Literatura Latinoamericana",
+      "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/ec/3d/ec3d3a070565998ad41670d8d6d05d6d.jpg",
+      "description": "La saga de la familia Trueba a través de cuatro generaciones en un país latinoamericano sin nombre. Una historia de amor, poder, pasión política y poderes sobrenaturales narrada por Clara, la clarividente.",
+      "pages": [
+        "Barrabás llegó a la familia por vía marítima, anotó la niña Clara con su delicada caligrafía. Ya entonces tenía el hábito de escribir las cosas importantes y más tarde, cuando se quedó muda, escribía también las trivialidades, sin sospechar que cincuenta años después, sus cuadernos me servirían para rescatar la memoria del pasado.",
+        "El día que llegó Barrabás era Jueves Santo. Venía en una jaula indigna, cubierto de sus propios excrementos y orines, con una mirada extraviada de preso miserable e indefenso, pero ya se adivinaba la prestancia real de su porte.",
+        "Era el día del patrono de la familia, San José, y por ese motivo estaban todos reunidos en el comedor, celebrando la ocasión con un almuerzo abundante en el cual había pavo relleno, el postre favorito de Barrabás.",
+        "Clara, que entonces tenía diez años, se asomó a mirar la jaula y de inmediato la bestia dejó de aullar y comenzó a lamer la mano de la niña que había atrevido a acercarse. Desde ese instante quedaron ligados por un afecto insólito que salvó a la bestia de la muerte.",
+        "La hermosa Rosa era la mayor de las hijas. Tenía veinte años cuando llegó Barrabás al hogar. Era de una belleza tan perturbadora, que provocaba el trastorno en los hombres y la misericordia en las mujeres."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "El amor en los tiempos del cólera",
+      "author": "Gabriel García Márquez",
+      "category": "Literatura Latinoamericana",
+      "cover": "https://anterior.mrbooks.com/mrbooks/portadas/9786287824447.webp",
+      "description": "La historia de amor entre Florentino Ariza y Fermina Daza, que espera más de cincuenta años para consumarse. Una exploración del amor, el envejecimiento y la persistencia del deseo a través del tiempo.",
+      "pages": [
+        "Era inevitable: el olor de las almendras amargas le recordaba siempre el destino de los amores contrariados. El doctor Juvenal Urbino lo percibió desde que entró en la casa todavía en penumbras, adonde había acudido de urgencia a ocuparse de un caso que para él había dejado de ser urgente desde hacía muchos años.",
+        "El refugiado del Caribe, Jeremiah de Saint-Amour, inválido de guerra, fotógrafo de niños y su adversario de ajedrez más compasivo, se había puesto a salvo de los tormentos de la memoria con un sahumerio de cianuro de oro.",
+        "Encontró el cadáver cubierto con una manta en el catre de campaña donde había dormido siempre, cerca de un taburete con la cubeta que había servido para vaporizar el veneno. En el suelo, amarrado de la pata del catre, estaba el cuerpo tendido de un gran danés negro de pecho nevado.",
+        "El doctor Juvenal Urbino lo había pensado muchas veces, sin ningún fundamento, que no había sido el olor lo que evocaba en su memoria el sino de los amores desgraciados. Era algo más sutil: un suspiro errante en el tiempo.",
+        "Fermina Daza, su esposa, estaba ya levantada desde las cinco, tratando de que todo estuviera listo para el almuerzo de gala en honor de su esposo, que aquel día cumplía cincuenta años de médico."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Crimen y castigo",
+      "author": "Fiódor Dostoyevski",
+      "category": "Clásicos",
+      "cover": "https://editorialverbum.es/wp-content/uploads/2019/11/Crimen-y-castigo-1.jpg",
+      "description": "Raskolnikov, un estudiante empobrecido, comete un asesinato creyendo estar por encima de la moral común. La novela explora su tormento psicológico, la redención y los límites de la razón frente a la conciencia.",
+      "pages": [
+        "A principios de julio, con un calor excesivo, al anochecer, un joven salió de la reducida habitación que tenía alquilada en un callejón de la avenida S., y, lentamente, como indeciso, se encaminó hacia el puente de K.",
+        "Había conseguido, afortunadamente, no encontrarse con su patrona en la escalera. Su cuartucho estaba bajo el tejado de un alto edificio de cinco pisos y se parecía más a un armario que a una habitación.",
+        "Su patrona, a quien alquilaba la habitación con la comida y el servicio, ocupaba el piso de abajo, y cada vez que él salía, se veía obligado a pasar por delante de la cocina de la patrona, cuya puerta quedaba casi siempre abierta de par en par a la escalera.",
+        "Y cada vez que pasaba, el joven experimentaba un miedo enfermizo que le humillaba y le hacía fruncir el ceño. Estaba debiendo dinero a la patrona y tenía miedo de encontrarse con ella.",
+        "No es que fuera pusilánime ni tímido, sino todo lo contrario; pero desde hacía algún tiempo se hallaba en un estado de irritación y de tensión nerviosa que se parecía a la hipocondría."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "category": "Clásicos",
+      "cover": "https://i0.wp.com/cesarcallejas.wordpress.com/wp-content/uploads/2015/12/madame.jpg?fit=732%2C1200&ssl=1",
+      "description": "Emma Bovary, atrapada en un matrimonio mediocre, busca la pasión y la vida romántica que ha leído en novelas. Su búsqueda desesperada de amor y emoción la lleva a la ruina. Una crítica magistral del romanticismo y la sociedad burguesa.",
+      "pages": [
+        "Nos hallábamos en el estudio cuando entró el director, seguido de un nuevo vestido de paisano y de un bedel que traía un gran pupitre. Los que estaban dormitando se despertaron, y todos se levantaron como si los hubieran interrumpido en su trabajo.",
+        "El director nos hizo una seña para que volviéramos a sentarnos; luego, volviéndose hacia el profesor: Señor Roger, le dijo en voz baja, ahí tiene usted un alumno que le recomiendo; entra en quinto. Si su aplicación y su conducta son meritorias, pasará a los mayores, como corresponde a su edad.",
+        "El nuevo, que permanecía en el rincón, detrás de la puerta, de modo que apenas se le veía, era un muchacho de campo, de unos quince años de edad y más alto de estatura que ninguno de nosotros.",
+        "Llevaba el pelo cortado en forma recta sobre la frente, como un chantre de aldea, y parecía formal, aunque muy cortado. Aunque no era ancho de espaldas, su chaquetilla de paño verde con botones negros debía molestarle para los movimientos de las axilas.",
+        "Charles Bovary era hijo de un antiguo subteniente de caballería, obligado a retirarse del servicio hacia 1812 a causa de ciertos asuntos de conscripción, que, aprovechándose entonces de sus ventajas personales, había embolsado en concepto de dote unas sesenta mil francos."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Los hermanos Karamázov",
+      "author": "Fiódor Dostoyevski",
+      "category": "Clásicos",
+      "cover": "https://www.libreriaespanola.com/wp-content/uploads/2023/09/90093113.jpg",
+      "description": "La historia de los tres hermanos Karamázov y su padre, Fiódor, en la Rusia del siglo XIX. Una exploración profunda de la fe, la duda, la moralidad y la naturaleza humana, considerada por muchos la obra cumbre de Dostoyevski.",
+      "pages": [
+        "Alexéi Fiódorovich Karamázov era el tercer hijo de un terrateniente de nuestro distrito, Fiódor Pávlovich Karamázov, tan conocido en su tiempo y que todavía se recuerda entre nosotros por su trágica y oscura muerte, ocurrida hace ya trece años.",
+        "De momento me limitaré a decir que este terrateniente, Fiódor Pávlovich, que murió hace trece años, fue durante toda su vida uno de esos hombres absurdos e inmorales y al mismo tiempo insensatos, que sin embargo, saben administrar muy bien sus bienes terrenales.",
+        "Fiódor Pávlovich, por ejemplo, empezó casi sin nada; era uno de los terratenientes más pequeños, corría de aquí para allá para comer en casa ajena y estaba al acecho de convertirse en parásito.",
+        "Sin embargo, al morir, resultó que tenía hasta cien mil rublos en metálico. Y al mismo tiempo, durante toda su vida había seguido siendo uno de los hombres más disparatados y desordenados de todo nuestro distrito.",
+        "Repito: no se trataba de estupidez, pues la mayoría de estos hombres disparatados son bastante listos y astutos, sino precisamente de falta de orden, y un desorden especial, nacional."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "La Regenta",
+      "author": "Leopoldo Alas Clarín",
+      "category": "Clásicos",
+      "cover": "https://escritosdeunexabstemio.wordpress.com/wp-content/uploads/2023/07/la-regenta-de-leopoldo-alas-clarin-portada.jpg",
+      "description": "Ana Ozores, la Regenta de Vetusta, lucha entre su deber matrimonial, su pasión reprimida y su búsqueda espiritual. Una obra maestra del realismo español que retrata la hipocresía y las pasiones de la sociedad provinciana del siglo XIX.",
+      "pages": [
+        "La heroica ciudad dormía la siesta. El viento sur, caliente y perezoso, empujaba las nubes blanquecinas que se rasgaban al correr hacia el norte. En las calles no había más ruido que el rumor estridente de los remolinos de polvo, trapos, pajas y papeles.",
+        "La catedral, obra del siglo XVI, tenía la panza muy gorda y el chapitel muy puntiagudo, como un guerrero de aquellos tiempos, robusto y flexible. La torre parecía un enorme cucurucho.",
+        "De cuando en cuando, el silbato de alguna locomotora que llegaba a la estación o que salía hacia Palomares, rasgaba los aires con estridencia melancólica.",
+        "Vetusta, la muy noble y leal ciudad, corte en lejano siglo, hacía la digestión del cocido y de la olla podrida, y descansaba oyendo entre sueños el monótono y familiar zumbido de la campana de coro, que retumbaba allá en lo alto de la esbelta torre en la Santa Basílica.",
+        "Ana Ozores, la Regenta, tenía treinta años. Había nacido en Loreto, pueblo de las cercanías de Vetusta, y desde muy niña se había criado en la ciudad episcopal."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "El túnel",
+      "author": "Ernesto Sábato",
+      "category": "Literatura Latinoamericana",
+      "cover": "https://www.planetadelibros.com.ec/usuaris/libros/fotos/177/original/176504_portada_el-tunel_ernesto-sabato_201505261030.jpg",
+      "description": "Juan Pablo Castel, un pintor obsesivo, narra desde la prisión cómo y por qué mató a María Iribarne, la única persona que parecía comprender su arte. Una novela existencialista sobre la incomunicación y la soledad humana.",
+      "pages": [
+        "Bastará decir que soy Juan Pablo Castel, el pintor que mató a María Iribarne; supongo que el proceso está en el recuerdo de todos y que no se necesitan mayores explicaciones sobre mi persona.",
+        "Aunque ni el diablo sabe qué es lo que ha de recordar la gente, ni por qué. En realidad, siempre he pensado que no hay memoria colectiva, lo que quizá sea una forma de defensa de la especie humana.",
+        "La frase la memoria colectiva no pasa de ser una expresión que indica un conjunto de taradeces individuales. Pero no quiero entrar ahora en este tipo de análisis y, además, en este momento, me importa un bledo la gente.",
+        "En todo caso, me basta con decir que me llamo Juan Pablo Castel y que fui yo quien mató a María Iribarne. No añadiré más detalles personales hasta que sea absolutamente necesario.",
+        "Yo tenía la esperanza de haber pintado ese cuadro para María. En realidad, era el único que me interesaba. Ella sola podía entenderlo, porque ella sola podía ver lo que yo había querido representar."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "category": "Literatura Latinoamericana",
+      "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/e4/a9/e4a975b4dce219d0b130b4d8915b8b88.jpg",
+      "description": "Una colección de cuentos que incluye obras maestras como El jardín de senderos que se bifurcan, La biblioteca de Babel y Tlön, Uqbar, Orbis Tertius. Borges explora laberintos, espejos, infinitos y la naturaleza de la realidad.",
+      "pages": [
+        "Nadie rebaje a lágrima o reproche esta declaración de la maestría de Dios, que con magnífica ironía me dio a la vez los libros y la noche. De esta ciudad de libros hizo dueños a unos ojos sin luz, que sólo pueden leer en las bibliotecas de los sueños los insensatos párrafos que ceden las albas a su afán.",
+        "El universo que otros llaman la Biblioteca se compone de un número indefinido, y tal vez infinito, de galerías hexagonales, con vastos pozos de ventilación en el medio, cercados por barandas bajísimas.",
+        "Desde cualquier hexágono, se ven los pisos inferiores y superiores: interminablemente. La distribución de las galerías es invariable. Veinte anaqueles, a cinco largos anaqueles por lado, cubren todos los lados menos dos; su altura, que es la de los pisos, excede apenas la de un bibliotecario normal.",
+        "Una de las caras libres da a un angosto zaguán, que desemboca en otra galería, idéntica a la primera y a todas. A izquierda y a derecha del zaguán hay dos gabinetes minúsculos. Uno permite dormir de pie; otro, satisfacer las necesidades finales.",
+        "Por ahí pasa la escalera espiral, que se abisma y se eleva hacia lo remoto. En el zaguán hay un espejo, que fielmente duplica las apariencias. Los hombres suelen inferir de ese espejo que la Biblioteca no es infinita."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Los detectives salvajes",
+      "author": "Roberto Bolaño",
+      "category": "Literatura Latinoamericana",
+      "cover": "https://cms.anagrama-ed.es/uploads/media/portadas/0001/14/e3e20ebca7405b9d3e36ca378527bfb97aff2db5.jpeg",
+      "description": "La búsqueda de dos jóvenes poetas mexicanos, Arturo Belano y Ulises Lima, de la mítica poeta Cesárea Tinajero. Una novela coral que recorre América Latina y Europa explorando la poesía, la juventud y el destino de los soñadores.",
+      "pages": [
+        "2 de noviembre. He sido cordialmente invitado a formar parte del realismo visceral. Por supuesto, he aceptado. No hubo ceremonia de iniciación. Mejor así.",
+        "Soy el primer poeta visceral-realista de Europa, según Ulises Lima. Soy el primer poeta visceral-realista del mundo, según Arturo Belano.",
+        "En realidad, hasta ahora, creo que soy el único poeta visceral-realista de Chile y posiblemente de América del Sur y de todo el hemisferio sur, excepto México. Lo que no es poco.",
+        "Ulises Lima y Arturo Belano son jóvenes. Como yo. Ulises Lima nació en 1953, al igual que yo. Arturo Belano nació en 1954. Esto no es una coincidencia. Todos los real visceralistas somos jóvenes.",
+        "No sé muy bien qué es el realismo visceral. Soy el único integrante del movimiento que ha leído a Freud, o al menos el único que está dispuesto a admitirlo. Esto tampoco es una coincidencia."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "La ciudad y los perros",
+      "author": "Mario Vargas Llosa",
+      "category": "Literatura Latinoamericana",
+      "cover": "https://www.rae.es/sites/default/files/la_ciudad_y_los_perros.jpg",
+      "description": "La vida en el Colegio Militar Leoncio Prado de Lima, donde un grupo de adolescentes aprende las crueles lecciones de la violencia, el machismo y la supervivencia. La primera gran novela de Vargas Llosa.",
+      "pages": [
+        "Cuatro, dijo el Jaguar. Los dados se inmovilizaron en el suelo de losetas, sujetos por la mirada de los ocho muchachos que, tendidos en círculo, no respiraban.",
+        "Uno de ellos alargó una mano hacia el centro, pero otro lo contuvo a tiempo. Espera, dijo. Recién cuando el dado superior quedó inmóvil y mostró su cara blanca y única, el círculo se deshizo.",
+        "Las manos se precipitaron, los cuerpos se enderezaron, las voces estallaron. Jaguar había ganado. Se puso de pie, guardó los dados en el bolsillo y dijo: Mañana. No les dejó tiempo de protestar. Salió del baño.",
+        "La noche cae rápidamente en la Perla. Apenas el sol se disuelve en el mar, el cielo se vuelve gris, luego morado, más tarde negro. El muro del colegio se eleva contra ese fondo oscuro como una sombra amenazante.",
+        "El patio está vacío, sólo quedan los perros. Al fondo, junto al muro posterior, se divisa la piscina de agua verdosa donde los muchachos nadan en el verano. Ahora está cubierta de hojas muertas."
+      ]
+    },
+    {
+      "id": 21,
+      "title": "El proceso",
+      "author": "Franz Kafka",
+      "category": "Clásicos",
+      "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/68/80/6880ee206baf079c74d5e70ef32ff560.jpg",
+      "description": "Josef K. es arrestado una mañana sin que se le explique el motivo. Comienza entonces un absurdo proceso judicial en el que nunca conoce los cargos ni puede defenderse adecuadamente. Una alegoría sobre la burocracia y la injusticia.",
+      "pages": [
+        "Alguien debió de haber calumniado a Josef K., porque sin haber hecho nada malo fue detenido una mañana. La cocinera de su patrona, la señora Grubach, que le traía el desayuno cada día a eso de las ocho, no se presentó en esta ocasión.",
+        "Eso nunca había sucedido antes. K. esperó un rato más, vio desde su almohada a la vieja que vivía enfrente y que lo observaba con una curiosidad poco habitual en ella, y después, sorprendido y hambriento a la vez, tocó el timbre.",
+        "En el acto se oyeron golpes en la puerta y entró en la habitación un hombre a quien nunca antes había visto en la casa. Era delgado pero sólido, llevaba un traje negro muy ceñido, que, al igual que los trajes de viaje, estaba provisto de diversos pliegues, bolsillos y hebillas.",
+        "¿Quién es usted?, preguntó K., e incorporándose de inmediato en la cama, se quedó sentado. Pero el hombre pasó por alto la pregunta, como si se tuviera que aceptar su aparición sin más, y se limitó a decir a su vez: ¿Ha tocado usted el timbre?",
+        "Anna tenía que haberme traído el desayuno, dijo K., intentando averiguar primero en silencio, a través de la observación y la reflexión, quién era aquel hombre."
+      ]
+    },
+    {
+      "id": 22,
+      "title": "El extranjero",
+      "author": "Albert Camus",
+      "category": "Clásicos",
+      "cover": "https://images.cdn3.buscalibre.com/fit-in/360x360/a1/30/a13010a11b494a1e13bcc3465e448ece.jpg",
+      "description": "Meursault, un hombre indiferente a todo, mata a un árabe en una playa de Argelia casi sin motivo. En el juicio, se le condena más por su indiferencia ante la muerte de su madre que por el crimen mismo. Una obra maestra del existencialismo.",
+      "pages": [
+        "Hoy ha muerto mamá. O quizá ayer. No lo sé. Recibí un telegrama del asilo: Madre fallecida. Entierro mañana. Sentidas condolencias. Pero no quiere decir nada. Quizá haya sido ayer.",
+        "El asilo de ancianos está en Marengo, a ochenta kilómetros de Argel. Tomaré el autobús a las dos y llegaré por la tarde. Así podré velar y regresaré mañana por la noche. He pedido dos días de permiso a mi jefe y con un motivo semejante no podía negármelos.",
+        "Pero no parecía contento. Incluso le dije: No es culpa mía. No me respondió. Pensé entonces que no debería haberle dicho eso. En definitiva, no tenía por qué disculparme. Era más bien a él a quien correspondía presentarme el pésame.",
+        "Pero sin duda lo hará pasado mañana, cuando me vea de luto. Por el momento, es como si mamá no hubiera muerto. Después del entierro, por el contrario, será un asunto liquidado y todo habrá asumido un carácter más oficial.",
+        "He tomado el autobús a las dos. Hacía mucho calor. Comí en el restaurante de Céleste, como de costumbre. Todos se apenaron mucho por mí y Céleste me dijo: Madre no hay más que una."
+      ]
+    },
+    {
+      "id": 23,
+      "title": "El retrato de Dorian Gray",
+      "author": "Oscar Wilde",
+      "category": "Clásicos",
+      "cover": "https://images.cdn2.buscalibre.com/fit-in/360x360/dc/e1/dce198d6b6a8f44e3d47738a8d146ce3.jpg",
+      "description": "Dorian Gray desea que su retrato envejezca mientras él permanece joven y hermoso. Su deseo se cumple, pero mientras él mantiene su belleza, el retrato refleja la corrupción de su alma. Una fábula sobre vanidad, hedonismo y moralidad.",
+      "pages": [
+        "El estudio estaba lleno del penetrante y delicioso perfume de rosas, y cuando la ligera brisa de verano agitaba los árboles del jardín, entraba por la puerta abierta el pesado aroma de las lilas o el más delicado perfume de las flores del espino.",
+        "Desde el rincón del diván de bordados persas en que yacía fumando innumerables cigarrillos, lord Henry Wotton podía divisar apenas el brillo de las flores dulces como miel de un laburno, cuyas ramas temblorosas parecían apenas capaces de soportar la carga de una belleza tan flamígera.",
+        "De cuando en cuando las fantásticas sombras de pájaros en vuelo se deslizaban a través de las largas cortinas de tafetán de color crema que pendían delante de la gran ventana, produciendo una especie de efecto japonés momentáneo.",
+        "Lord Henry pensaba que era delicioso observarlas. El mero rumor de los árboles le parecía más dulce que cualquier música, y él mismo sentía que los corazones de los hombres latían con su ritmo.",
+        "El pintor, ocupado en su trabajo, contemplaba a cada momento la bella figura cuyos reflejos aparecían en el pulido espejo de las aguas. Contemplaba el retrato terminado frente a él."
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Cortázar para principiantes",
+      "author": "Eduardo Berti",
+      "category": "Ensayo",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xwz4q9bvDKwZK7NJ0uVPFBM4lRgkI02BHQ&s",
+      "description": "Una introducción accesible a la vida y obra de Julio Cortázar, uno de los maestros del cuento latinoamericano. Explora sus cuentos fantásticos, su compromiso político y su influencia en la literatura contemporánea.",
+      "pages": [
+        "Julio Cortázar nació en Bruselas en 1914. Sus padres eran argentinos, y estaban en Bélgica por razones de trabajo de su padre. La Primera Guerra Mundial los sorprendió allí, y no pudieron regresar a Argentina hasta 1918.",
+        "Cortázar creció en Banfield, un barrio del Gran Buenos Aires. Desde niño fue un lector voraz. Se graduó como maestro de escuela en 1932 y más tarde estudió Letras en la Universidad de Buenos Aires, aunque nunca se graduó.",
+        "En 1951, Cortázar se trasladó a París con una beca del gobierno francés. Allí trabajó como traductor para la UNESCO y vivió el resto de su vida, aunque nunca dejó de sentirse profundamente argentino y latinoamericano.",
+        "Sus cuentos fantásticos revolucionaron el género. En Bestiario, Casa tomada, Las armas secretas y otros libros, Cortázar introdujo lo insólito en la vida cotidiana de manera tan natural que el lector acepta lo imposible sin pestañear.",
+        "Rayuela, publicada en 1963, fue su obra más ambiciosa y experimental. Propuso una lectura no lineal, donde el lector podía elegir diferentes órdenes de capítulos. Fue un libro que marcó a toda una generación."
+      ]
+    },
+    {
+      "id": 25,
+      "title": "La tregua",
+      "author": "Mario Benedetti",
+      "category": "Literatura Latinoamericana",
+      "cover": "https://images.cdn1.buscalibre.com/fit-in/360x360/4c/a5/4ca59d694a4ba8d20321da3a733a78c0.jpg",
+      "description": "El diario de Martín Santomé, un viudo de clase media que está a punto de jubilarse. Su vida gris cambia cuando conoce a Laura Avellaneda, una joven compañera de oficina. Una novela sobre el amor tardío, la soledad y las pequeñas alegrías de la vida.",
+      "pages": [
+        "Sólo me faltan seis meses y veintiocho días para estar en condiciones de jubilarme. Debe hacer por lo menos cinco años que llevo este cómputo diario de mi saldo de trabajo. Verdaderamente, ¿preciso tanto el ocio?",
+        "Yo me pregunto qué haré cuando me jubile. Me levantaré a las nueve o a las diez como hacen todos los jubilados; veré a mi hijo Jaime al mediodía; almorzaré solo; a lo mejor me voy al cine en la tarde o leo un rato en el café.",
+        "Tengo cincuenta años: los cumplí ayer. Jamás me pesó tanto esa cifra como ahora. Cincuenta años. Fui a comprar un diario y el vendedor me dio el vuelto con una moneda de dos pesos. Pensé: este tipo me está dando limosna.",
+        "En la oficina tengo un compañero nuevo. Se llama Santini. Hace dos días que está. Debe tener unos veinticinco años. Hoy me ha preguntado hace cuántos años trabajo en esto. Treinta y uno, le dije. Se quedó boquiabierto.",
+        "Esta tarde vino a verme mi hija Blanca. No la veía desde hace un mes. Tiene problemas con su marido. Yo la escuché, como siempre, pero en el fondo no sé qué aconsejarle. No entiendo cómo funciona el matrimonio moderno."
       ]
     }
   ]

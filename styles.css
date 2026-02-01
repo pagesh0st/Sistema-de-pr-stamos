@@ -129,6 +129,26 @@ body {
     background: white;
 }
 
+/* Login Footer */
+.login-footer {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.btn-link {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px;
+    display: inline-block;
+    transition: color 0.3s ease;
+}
+
+.btn-link:hover {
+    color: var(--color-accent);
+}
+
 /* Botones */
 .btn-primary {
     background: var(--color-accent);
@@ -139,6 +159,7 @@ body {
     font-weight: 500;
     font-family: inherit;
     cursor: pointer;
+    transition: background 0.3s ease;
 }
 
 .btn-primary:hover {
@@ -153,6 +174,9 @@ body {
     font-size: 14px;
     font-family: inherit;
     cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s ease;
 }
 
 .btn-secondary:hover {
@@ -167,6 +191,7 @@ body {
     font-size: 15px;
     font-family: inherit;
     cursor: pointer;
+    transition: color 0.3s ease;
 }
 
 .btn-back:hover {
@@ -214,11 +239,45 @@ body {
     width: 100%;
 }
 
+.catalog-header {
+    margin-bottom: 30px;
+}
+
 .catalog-container h3 {
     font-size: 28px;
     font-weight: 600;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     color: var(--color-primary);
+}
+
+/* Filtros de categorías */
+.category-filters {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.category-btn {
+    background: var(--color-card);
+    color: var(--color-text);
+    padding: 10px 20px;
+    border: 1px solid var(--color-border);
+    font-size: 14px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.category-btn:hover {
+    background: var(--color-bg);
+    border-color: var(--color-primary);
+}
+
+.category-btn.active {
+    background: var(--color-primary);
+    color: white;
+    border-color: var(--color-primary);
 }
 
 .books-grid {
@@ -231,10 +290,12 @@ body {
     background: var(--color-card);
     cursor: pointer;
     overflow: hidden;
+    transition: all 0.3s ease;
 }
 
 .book-card:hover {
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateY(-5px);
 }
 
 .book-cover {
@@ -291,7 +352,20 @@ body {
 .detail-author {
     font-size: 18px;
     color: var(--color-text-light);
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+}
+
+.detail-category {
+    margin-bottom: 20px;
+}
+
+.category-tag {
+    display: inline-block;
+    background: var(--color-primary);
+    color: white;
+    padding: 6px 14px;
+    font-size: 13px;
+    font-weight: 500;
 }
 
 .detail-description {
@@ -403,6 +477,7 @@ to {
     align-items: center;
     justify-content: center;
     color: var(--color-text);
+    transition: all 0.3s ease;
 }
 
 .page-nav:hover {
@@ -426,6 +501,117 @@ to {
 
 .page-nav.next {
     right: 40px;
+}
+
+/* Página Nosotros */
+.nosotros-screen {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-bg);
+}
+
+.nosotros-header {
+    background: var(--color-card);
+    border-bottom: 1px solid var(--color-border);
+    padding: 20px 40px;
+}
+
+.nosotros-container {
+    flex: 1;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 60px 40px;
+    width: 100%;
+}
+
+.nosotros-hero {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.school-logo-large {
+    margin-bottom: 30px;
+}
+
+.school-logo-large img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.nosotros-hero h1 {
+    font-family: 'Crimson Text', serif;
+    font-size: 42px;
+    font-weight: 600;
+    color: var(--color-primary);
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.nosotros-hero .subtitle {
+    font-size: 18px;
+    color: var(--color-text-light);
+    font-style: italic;
+}
+
+.nosotros-content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.about-section {
+    background: var(--color-card);
+    padding: 35px;
+}
+
+.about-section h3 {
+    font-family: 'Crimson Text', serif;
+    font-size: 28px;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: 20px;
+}
+
+.about-section p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: var(--color-text);
+}
+
+.values-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+}
+
+.values-list li {
+    padding: 15px 20px;
+    background: var(--color-bg);
+    border-left: 4px solid var(--color-accent);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.contact-info p {
+    font-size: 15px;
+}
+
+.nosotros-footer {
+    background: var(--color-card);
+    border-top: 1px solid var(--color-border);
+    padding: 25px 40px;
+    text-align: center;
+    color: var(--color-text-light);
+    font-size: 14px;
 }
 
 /* Responsive */
@@ -461,5 +647,27 @@ to {
 
     .page-nav.next {
         right: 10px;
+    }
+
+    .category-filters {
+        gap: 8px;
+    }
+
+    .category-btn {
+        padding: 8px 15px;
+        font-size: 13px;
+    }
+
+    .nosotros-hero h1 {
+        font-size: 32px;
+    }
+
+    .values-list {
+        grid-template-columns: 1fr;
+    }
+
+    .user-info {
+        flex-wrap: wrap;
+        gap: 10px;
     }
 }

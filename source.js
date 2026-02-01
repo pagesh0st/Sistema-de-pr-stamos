@@ -2,6 +2,7 @@ let currentUser = null;
 let booksData = [];
 let currentBook = null;
 let currentPage = 0;
+let currentCategory = 'all';
 
 const screens = {
     login: document.getElementById('login-screen'),
@@ -56,6 +57,17 @@ function initializeEventListeners() {
     
     document.getElementById('next-page').addEventListener('click', () => {
         changePage(1);
+    });
+    
+    // Event listeners para los filtros de categorías
+    const categoryButtons = document.querySelectorAll('.category-btn');
+    categoryButtons.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            categoryButtons.forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            currentCategory = e.target.dataset.category;
+            renderBooksCatalog();
+        });
     });
     
     document.addEventListener('keydown', (e) => {
@@ -114,7 +126,13 @@ function renderBooksCatalog() {
     const grid = document.getElementById('books-grid');
     grid.innerHTML = '';
     
-    booksData.forEach(book => {
+    // Filtrar libros por categoría
+    let filteredBooks = booksData;
+    if (currentCategory !== 'all') {
+        filteredBooks = booksData.filter(book => book.category === currentCategory);
+    }
+    
+    filteredBooks.forEach(book => {
         const card = document.createElement('div');
         card.className = 'book-card';
         card.onclick = () => showBookDetails(book);
@@ -129,6 +147,11 @@ function renderBooksCatalog() {
         
         grid.appendChild(card);
     });
+    
+    // Mostrar mensaje si no hay libros en la categoría
+    if (filteredBooks.length === 0) {
+        grid.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--color-text-light); padding: 40px;">No hay libros disponibles en esta categoría.</p>';
+    }
 }
 
 function showBookDetails(book) {
@@ -138,6 +161,7 @@ function showBookDetails(book) {
     document.getElementById('detail-cover').alt = book.title;
     document.getElementById('detail-title').textContent = book.title;
     document.getElementById('detail-author').textContent = book.author;
+    document.getElementById('detail-category').textContent = book.category || 'Sin categoría';
     document.getElementById('detail-description').textContent = book.description;
     
     showScreen('details');
